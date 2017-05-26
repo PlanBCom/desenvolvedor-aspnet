@@ -25,7 +25,8 @@ Neste teste prático serão avaliados raciocínio lógico, criatividade, conheci
 
 Esta etapa deve ser entregue em um arquivo compactado (.zip) via e-mail [douglas.santos@planb.com.br] . O prazo sugerido para entrega é de até 3 dias a partir do nosso contato. Caso seja entregue após o prazo, se a vaga ainda estiver aberta, você poderá prosseguir normalmente no processo. Note que, quanto antes entregar, maiores serão suas chances de ser avaliado antes da vaga ser preenchida.
 
-Selecionaremos os melhores trabalhos para prosseguir no processo de seleção. Boa sorte!
+Selecionaremos os melhores trabalhos para prosseguir no processo de seleção.
+Boa sorte!
 
 #### Requisitos:
 - Criar um site em ASP.NET MVC com uma área restrita para administradores (acesso restrito para Administrador).
