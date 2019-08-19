@@ -1,7 +1,7 @@
 # Sobre a Plan B
 Agência de comunicação que busca promover diálogos entre marcas e pessoas. Localizada em Belo Horizonte, a [Plan B](http://planb.com.br/) tem a inovação, a criatividade e a simplicidade como premissas para a construção de relacionamento com o público.
 
-Utilizamos Ruby on Rails, ASP.NET MVC (C#) e PHP como principais plataformas de desenvolvimento, mas o time é incentivado a explorar e testar novas tecnologias para desenvolvimento, buscando mais agilidade, performance e diversão. :)
+Utilizamos ASP.NET MVC (C#) e PHP como principais plataformas de desenvolvimento, mas o time é incentivado a explorar e testar novas tecnologias para desenvolvimento, buscando mais agilidade, performance e diversão. :)
 
 # Desenvolvedor Web
 Requisitos
